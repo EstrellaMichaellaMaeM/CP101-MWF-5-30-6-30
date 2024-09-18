@@ -1,0 +1,4 @@
+# sampleText1 = "My name is {}. I love {}. I love playing {}. {}"
+# sampleText1a = sampleText1.format("Michaella", "Siomai", "Mobile Legends", "Grapes")
+# print(sampleText1a)
+
